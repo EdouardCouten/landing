@@ -1,0 +1,20 @@
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/banner.css");
+@import url("components/btn-flat.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+/* Utilities */
+body {
+  margin: 0;
+@@ -20,3 +25,7 @@ a {
+
+/* Custom design below! */
+
+.text-center {
+    text-align: center;
+}
